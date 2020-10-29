@@ -1,18 +1,13 @@
 +++
 title = "testing testing 4 5 6"
 author = ["svejk"]
-lastmod = 2020-10-28T14:57:56-04:00
+lastmod = 2020-10-28T22:43:45-04:00
 slug = "testing"
 draft = false
 +++
 
-## Pages {#pages}
-
-<!--list-separator-->
-
--  Page Title
-
-    Page content
-     here we go looby looo
-
-    $ &alpha; $ dammmmmmnnnnnn
+<sup id="6daadb834abb7b220a4f1e3b7d4dbe7c"><a href="#namwaliserpell" title="@ONLINE {namwaliserpell,
+    author = Namwali Serpell,
+    title  = The Banality of Empathy,
+    url    = https://getpocket.com/explore/item/the-banality-of-empathy?utm_source=pocket-newtab
+}">namwaliserpell</a></sup> The empathy of evil
