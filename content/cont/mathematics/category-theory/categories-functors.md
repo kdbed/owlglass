@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-30T15:17:23-04:00
+lastmod = 2020-10-30T15:31:27-04:00
 draft = false
 +++
 
@@ -21,10 +21,6 @@ Furthermore, these relations can be composed.  In category theory, one has _obje
 ### Basic Definitions {#basic-definitions}
 
 Begin with the defintion of a category:
-
-```text
-*Definition* : $\mathcal{C}$
-```
 
 ```haskell
 2+2
