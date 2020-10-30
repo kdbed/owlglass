@@ -22,7 +22,7 @@ Furthermore, these relations can be composed.  In category theory, one has _obje
 
 Begin with the defintion of a category:
 
-Definition  : \\(\mathcal{C}\\)
+Definition  : $\mathcal{C}$
 
 ```haskell
 2+2
