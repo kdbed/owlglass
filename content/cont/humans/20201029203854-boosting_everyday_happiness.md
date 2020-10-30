@@ -1,7 +1,7 @@
 +++
 title = "Boosting everyday happiness"
 author = ["svejk"]
-lastmod = 2020-10-29T21:51:18-04:00
+lastmod = 2020-10-30T15:24:55-04:00
 draft = false
 +++
 
