@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-30T15:40:43-04:00
+lastmod = 2020-10-30T20:47:40-04:00
 draft = false
 +++
 
@@ -22,7 +22,10 @@ Furthermore, these relations can be composed.  In category theory, one has _obje
 
 Begin with the defintion of a category:
 
-Definition  : $\mathcal{C}$
+```text
+ Definition  : A category $\mathcal{C} = (O,A,\circle)$ consists of:
+ 1. a collection $O$ of /objects/, written $a,b,... \in O$
+```
 
 ```haskell
 2+2
