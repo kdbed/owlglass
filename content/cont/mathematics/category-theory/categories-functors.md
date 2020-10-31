@@ -1,8 +1,9 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-31T15:16:31-04:00
+lastmod = 2020-10-31T15:32:03-04:00
 draft = false
+weight = 1
 +++
 
 ## Category Theory Basics {#category-theory-basics}
@@ -37,4 +38,4 @@ Begin with the defintion of a category:
 
 \*
 
-![spoofed]{"/static/images/spoofed.png"}
+{{< figure src="/images/spoofed.png" >}}
