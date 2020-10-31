@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-31T15:14:14-04:00
+lastmod = 2020-10-31T15:16:31-04:00
 draft = false
 +++
 
@@ -37,4 +37,4 @@ Begin with the defintion of a category:
 
 \*
 
-{{< figure src="/static/img/spoofed.png" >}}
+{{< figure src="/static/images/spoofed.png" >}}
