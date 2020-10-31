@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Category Theory
 weight: 7
 chapter: true
 ---

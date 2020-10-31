@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-30T20:56:08-04:00
+lastmod = 2020-10-31T15:11:40-04:00
 draft = false
 +++
 
@@ -36,3 +36,5 @@ Begin with the defintion of a category:
 ```
 
 \*
+
+{{< figure src="/home/kdb/Docments/github/owlglass/static/img/spoofed.png" >}}
