@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-30T20:49:45-04:00
+lastmod = 2020-10-30T20:56:08-04:00
 draft = false
 +++
 
@@ -22,9 +22,12 @@ Furthermore, these relations can be composed.  In category theory, one has _obje
 
 Begin with the defintion of a category:
 
-Definition  : A category \\(\mathcal{C} = (O,A,\circle)\\) consists of:
+**Definition**  : A **category** \\(\mathcal{C} = (O,A,\circ)\\) consists of:
 
 1.  a collection \\(O\\) of _objects_, written \\(a,b,... \in O\\)
+2.  a collection \\(A\\) of _arrows_, written \\(f,g,... \in A\\) between these objects, e.g., $ f: a &rarr; b$
+3.  a notion of _composition_ \\(f \circ g\\) of arrows
+4.  an identity arrow \\(\text{id}\_a\\) for each object \\(a \in O\\)
 
 <!--listend-->
 
