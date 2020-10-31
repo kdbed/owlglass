@@ -1,12 +1,11 @@
 ---
-title: Content
+title: Mathematics
 weight: 10
 chapter: true
-pre: "<b>2. </b>"
 ---
 
-### Chapter 2
+### math
 
-# Content
+# Mathematics
 
-Find out how to create and organize your content quickly and intuitively.
+Notes on Mathematics

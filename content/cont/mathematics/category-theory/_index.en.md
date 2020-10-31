@@ -1,12 +1,11 @@
 ---
 title: Content
-weight: 10
+weight: 7
 chapter: true
-pre: "<b>2. </b>"
 ---
 
-### Chapter 2
+### categorize
 
-# Content
+# Category Theory
 
-Find out how to create and organize your content quickly and intuitively.
+functors
