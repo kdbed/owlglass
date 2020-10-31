@@ -37,4 +37,4 @@ Begin with the defintion of a category:
 
 \*
 
-{{< figure src="/static/images/spoofed.png" >}}
+![spoofed]{"/static/images/spoofed.png"}
