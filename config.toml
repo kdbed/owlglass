@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "Owlglass"
 theme = "learn"
 themesdir = "./themes"
 metaDataFormat = "yaml"
@@ -10,22 +10,23 @@ defaultContentLanguageInSubdir= true
 
 [params]
   editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
-  showVisitedLinks = true
+  description = "Notes for all"
+  author = "svejk"
+  showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
   disableMermaid = false
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
+  themeVariant = "red"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Owlglass"
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
@@ -34,24 +35,24 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/kdbed"
 weight = 10
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+#url = "showcase"
+#weight = 11
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+#identifier = "hugodoc"
+#url = "https://gohugo.io/"
+#weight = 20
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+#url = "/credits"
+#weight = 30
 
 [Languages.fr]
 title = "Documentation du thème Hugo Learn"
