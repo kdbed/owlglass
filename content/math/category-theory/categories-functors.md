@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-11-02T14:16:58-05:00
+lastmod = 2020-11-02T14:56:24-05:00
 draft = false
 weight = 1
 +++
@@ -34,6 +34,10 @@ Begin with the defintion of a category:
 
 ```haskell
 2+2
+```
+
+```text
+4
 ```
 
 \*
