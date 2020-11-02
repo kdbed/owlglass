@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-10-31T15:47:45-04:00
+lastmod = 2020-11-02T14:16:58-05:00
 draft = false
 weight = 1
 +++
