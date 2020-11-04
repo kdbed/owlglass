@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-11-02T14:56:24-05:00
+lastmod = 2020-11-03T22:05:41-05:00
 draft = false
 weight = 1
 +++
@@ -30,16 +30,8 @@ Begin with the defintion of a category:
 3.  a notion of _composition_ \\(f \circ g\\) of arrows
 4.  an identity arrow \\(\text{id}\_a\\) for each object \\(a \in O\\)
 
-<!--listend-->
+The composition operation and identity arrow should satisfy the following laws:
 
-```haskell
-2+2
-```
+-   _Composition_: If \\(f : a \rightarrow b\\) and \\(g : b \rightarrow c\\) then \\(g \circ f : a \rightarrow c\\).
 
-```text
-4
-```
-
-\*
-
-{{< figure src="/images/spoofed.png" >}}
+{{< figure src="/images/cat1.png" >}}
