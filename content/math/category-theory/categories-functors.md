@@ -1,7 +1,7 @@
 +++
 title = "Categories, Functors, and Natural Transformations"
 author = ["svejk"]
-lastmod = 2020-11-03T23:19:27-05:00
+lastmod = 2020-11-04T01:57:15-05:00
 draft = false
 weight = 1
 +++
@@ -35,3 +35,5 @@ The composition operation and identity arrow should satisfy the following laws:
 -   _Composition_: If \\(f : a \rightarrow b\\) and \\(g : b \rightarrow c\\) then \\(g \circ f : a \rightarrow c\\).
 
 {{< figure src="/images/cat1.png" >}}
+{{< figure src="/images/cat2.png" >}}
+{{< figure src="/images/cat2.png" >}}
