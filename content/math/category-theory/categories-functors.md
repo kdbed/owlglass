@@ -34,4 +34,4 @@ The composition operation and identity arrow should satisfy the following laws:
 
 -   _Composition_: If \\(f : a \rightarrow b\\) and \\(g : b \rightarrow c\\) then \\(g \circ f : a \rightarrow c\\).
 
-{{< figure src="/images/cat1.png" height=20>}}
+{{< figure src="/images/cat1.png" height="20">}}
