@@ -33,4 +33,6 @@ Begin with the defintion of a category:
 The composition operation and identity arrow should satisfy the following laws:
 
 -   _Composition_: If \\(f : a \rightarrow b\\) and \\(g : b \rightarrow c\\) then \\(g \circ f : a \rightarrow c\\).
-    <img src="/images/cat1.png" style="width:50px;" />
+    <html>
+    <img src="/images/cat1.png" style="width:5px;" />
+    </html>
