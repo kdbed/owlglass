@@ -1,5 +1,5 @@
 ---
-title: Category Theory
+Title: Category Theory
 weight: 7
 chapter: true
 ---
