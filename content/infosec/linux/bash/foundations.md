@@ -1,7 +1,7 @@
 +++
 title = "Foundations"
 author = ["svejk"]
-lastmod = 2021-02-10T12:05:32-05:00
+lastmod = 2021-02-10T13:35:21-05:00
 draft = false
 weight = 1
 +++

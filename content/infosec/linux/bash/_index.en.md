@@ -7,5 +7,3 @@ chapter: true
 ### $ whoami
 
 # bash
-
-Linux CLI
