@@ -1,7 +1,7 @@
 +++
 title = "Hello"
 author = ["svejk"]
-lastmod = 2021-02-10T23:39:22-05:00
+lastmod = 2021-02-11T09:09:02-05:00
 draft = false
 weight = 1
 +++
@@ -13,14 +13,13 @@ weight = 1
 
 Begin with a simple hello world program:
 
-<a id="code-snippet--hello.hs"></a>
-```haskell
+{{< highlight haskell "linenos=table, linenostart=1" >}}
 --hello.hs : first haskell file
 main = do
   print "Hello World!"
-```
+{{< /highlight >}}
 
-Compile the code by passing <span class="underline">hello.hs</span> to GHC as an argument:
+Compile the code by passing **hello.hs** to GHC as an argument:
 
 ```shell
 ghc hello.hs
