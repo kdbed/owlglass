@@ -1,13 +1,10 @@
 +++
 title = "Hello"
 author = ["svejk"]
-lastmod = 2021-02-10T23:01:18-05:00
+lastmod = 2021-02-10T23:15:41-05:00
 draft = false
 weight = 1
 +++
-
-:ID:       42897f99-ec4f-48ec-8d7d-7022ef58ccb3
-
 
 ## The Basics {#the-basics}
 
