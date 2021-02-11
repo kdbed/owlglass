@@ -1,7 +1,7 @@
 +++
 title = "Hello"
 author = ["svejk"]
-lastmod = 2021-02-10T23:35:08-05:00
+lastmod = 2021-02-10T23:39:22-05:00
 draft = false
 weight = 1
 +++
@@ -13,6 +13,7 @@ weight = 1
 
 Begin with a simple hello world program:
 
+<a id="code-snippet--hello.hs"></a>
 ```haskell
 --hello.hs : first haskell file
 main = do
