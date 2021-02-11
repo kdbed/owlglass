@@ -1,7 +1,7 @@
 +++
 title = "Hello"
 author = ["svejk"]
-lastmod = 2021-02-10T23:15:41-05:00
+lastmod = 2021-02-10T23:32:44-05:00
 draft = false
 weight = 1
 +++
@@ -23,4 +23,9 @@ Compile the code by passing <span class="underline">hello.hs</span> to GHC as an
 
 ```bash
 ghc hello.hs
+```
+
+```text
+[1 of 1] Compiling Main             ( hello.hs, hello.o )
+Linking hello ...
 ```
