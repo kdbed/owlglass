@@ -1,7 +1,7 @@
 +++
 title = "Algorithms in Haskell"
 author = ["svejk"]
-lastmod = 2021-03-05T20:38:10-05:00
+lastmod = 2021-03-05T21:02:01-05:00
 draft = false
 weight = 1
 +++
