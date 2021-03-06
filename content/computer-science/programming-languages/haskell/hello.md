@@ -1,7 +1,7 @@
 +++
 title = "Hello"
 author = ["svejk"]
-lastmod = 2021-03-05T21:02:44-05:00
+lastmod = 2021-03-05T22:02:10-05:00
 draft = false
 weight = 1
 +++
@@ -30,20 +30,11 @@ ghc hello.hs
 Linking hello ...
 ```
 
-```text
-[1 of 1] Compiling Main             ( hello.hs, hello.o )
-Linking hello ...
-```
-
 Thus GHC has created three files: **hello**, the binary executable, along with hello.hi and hello.o.  The binary can be executed from the command line:
 
 {{< highlight shell "linenos=table, linenostart=1" >}}
 ./hello
 {{< /highlight >}}
-
-```text
-"Hello World!"
-```
 
 ```text
 "Hello World!"
