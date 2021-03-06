@@ -1,6 +1,6 @@
 ---
 Title: Algorithms: Design, Analysis, Implementation
-weight: 1
+weight: 2
 chapter: true
 ---
 
