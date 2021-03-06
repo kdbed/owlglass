@@ -1,10 +1,11 @@
 ---
 Title: Computer Science
-weight: 2
+weight: 3
 chapter: true
+pre: "<b>3. </b>"
 ---
 
-### Chapter 2
+### Chapter 3
 
 # Computer Science
 
