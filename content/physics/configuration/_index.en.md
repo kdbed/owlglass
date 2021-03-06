@@ -28,7 +28,7 @@ Note that some of these parameters are explained in details in other sections of
   # Set this to true to disable this behavior (some proxies don't handle well this optimization)
   disableAssetsBusting = false
   # Set this to true to disable copy-to-clipboard button for inline code.
-  disableInlineCopyToClipBoard = false
+  disableInlineCopyToClipBoard = true
   # A title for shortcuts in menu is set by default. Set this to true to disable it.
   disableShortcutsTitle = false
   # If set to false, a Home button will appear below the search bar on the menu.
@@ -74,7 +74,7 @@ The mermaid configuration parameters can also be set on a specific page. In this
 
 > Example:
 >
-> Mermaid is globally disabled. By default it won't be loaded by any page.  
+> Mermaid is globally disabled. By default it won't be loaded by any page.
 > On page "Architecture" you need a class diagram. You can set the mermaid parameters locally to only load mermaid on this page (not on the others).
 
 You also can disable mermaid for specific pages while globally enabled.
