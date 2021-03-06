@@ -1,7 +1,7 @@
 +++
 title = "Algorithms in Haskell"
 author = ["svejk"]
-lastmod = 2021-03-05T21:02:01-05:00
+lastmod = 2021-03-05T21:27:12-05:00
 draft = false
 weight = 1
 +++
@@ -13,30 +13,3 @@ This is an introduction to the principles of algorithm design from a purely func
 To reason formally about imperative programs, one must formulate their specifications using the predicate calculus, using loop invariants to prove that they're correct.  However, one cannot easily reason about the properties of an imperative program directly in terms of the language of its code. Thus, there is usually a wide gap between books on formal program design and algorithm design.
 
 A functional approach bridges this gap.
-
-{{< highlight haskell "linenos=table, linenostart=1" >}}
---hello.hs : first haskell file
-main = do
-  print "Hello World!"
-{{< /highlight >}}
-
-Compile the code by passing **hello.hs** to GHC as an argument:
-
-{{< highlight shell "linenos=table, linenostart=1" >}}
-ghc hello.hs
-{{< /highlight >}}
-
-```text
-[1 of 1] Compiling Main             ( hello.hs, hello.o )
-Linking hello ...
-```
-
-Thus GHC has created three files: **hello**, the binary executable, along with hello.hi and hello.o.  The binary can be executed from the command line:
-
-{{< highlight shell "linenos=table, linenostart=1" >}}
-./hello
-{{< /highlight >}}
-
-```text
-"Hello World!"
-```
