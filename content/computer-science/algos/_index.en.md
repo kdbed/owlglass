@@ -1,11 +1,11 @@
 ---
-Title: Programming Languages
+Title: Algorithms
 weight: 5
 chapter: true
 ---
 
-### learn to talk
+### algos
 
-# Programming Languages
+# Algorithms: Design, Analysis, and Implementation
 
 comments
