@@ -1,12 +1,12 @@
 ---
-title: Physics
+Title: Physics
 weight: 2
-pre: "<b>2. </b>"
 chapter: true
+pre: "<b>2. </b>"
 ---
 
 ### Chapter 2
 
 # Physics
 
-Notes on physics.
+Notes on Physics.
